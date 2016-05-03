@@ -1,0 +1,1 @@
+XCode project for framebuffer driver of ATI graphic chipsets HD series 2xxx, 3xxx, 4xxx
